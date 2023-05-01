@@ -1,0 +1,10 @@
+git init
+git branch -b nuevarama
+git branch
+git add .
+git commit -m "Subiendo Archivos"
+git push -u origin nuevarama
+touch pasos.txt
+git add .
+git commit -m "Se agrega Carousel Sobre Nosotros"
+git push -u origin nuevarama
