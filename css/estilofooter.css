@@ -1,0 +1,12 @@
+
+  .footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../img/fondo.jpg');
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover; /*cover hará que la imagen se estire para cubrir todo el fondo sin perder proporción y sin repetirse.*/
+    height: 430px;
+    /* margin-top: 20px; */
+  }
