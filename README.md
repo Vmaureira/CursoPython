@@ -1,4 +1,4 @@
-#  BODEGA INFORMÁTICA 
+#  Nimrodel Pub Restaurant
 El dueño de Pub Restaurant Nimrodel nos solicitó realizar una página web donde muestre su información
 básica y además, los usuarios pudieran reservar a través de formularios debidamente validados y además
 la aplicación fuese responsiva.
